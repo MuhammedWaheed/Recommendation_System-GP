@@ -94,38 +94,17 @@ Recommendation_System-GP-/
 └── README.md         # Project documentation
 ```
 
-## 📝 Documentation
 
-For detailed usage instructions, please refer to our [User Guide](https://github.com/AbdelrhmanMohamed2001/Recommendation_System-GP-/blob/main/How%20to%20use%20out%20syst).
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Team
 
 - Abdelrhman Mohamed - [GitHub](https://github.com/AbdelrhmanMohamed2001)
-- [Add other team members]
-
+- Gaser ahmed mohamed -[Github](https://github.com/gasserahmed118)
 ## 🙏 Acknowledgments
 
 - CAML model developers for the pre-trained Arabic sentiment analysis model
 - Arabic NLP community for datasets and resources
 - [Add other acknowledgments]
 
-## 📧 Contact
 
-For questions or support, please open an issue or contact the maintainers.
-
----
 ⭐ Star this repository if you find it helpful!
