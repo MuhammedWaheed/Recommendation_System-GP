@@ -51,52 +51,6 @@ The system aggregates Arabic text data from multiple sources:
 
 ## 🚀 Getting Started
 
-### Prerequisites
-```bash
-python >= 3.8
-streamlit
-tensorflow/pytorch
-scikit-learn
-pandas
-numpy
-arabic-reshaper
-python-bidi
-tweepy (for Twitter API)
-```
-
-### Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/AbdelrhmanMohamed2001/Recommendation_System-GP-.git
-cd Recommendation_System-GP-
-```
-
-2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-3. Set up Twitter API credentials (for scraping feature)
-```bash
-export TWITTER_API_KEY="your_api_key"
-export TWITTER_API_SECRET="your_api_secret"
-export TWITTER_ACCESS_TOKEN="your_access_token"
-export TWITTER_ACCESS_SECRET="your_access_secret"
-```
-
-### Usage
-
-1. Start the Streamlit application
-```bash
-streamlit run app.py
-```
-
-2. Access the web interface at `http://localhost:8501`
-
-3. Upload your data files or enter search terms for Twitter scraping
-
-4. View sentiment analysis results and recommendations
 
 ## 📊 How It Works
 
@@ -110,18 +64,6 @@ streamlit run app.py
 3. **Visualization**: Results are displayed as pie charts showing the percentage distribution of sentiments for each input
 
 4. **Recommendation Engine**: The system calculates the positive/negative ratio for each file and recommends items with the highest ratios
-
-## 📈 Model Performance
-
-| Model | Accuracy | F1-Score |
-|-------|----------|----------|
-| CAML (Transfer Learning) | TBD | TBD |
-| LSTM | TBD | TBD |
-| CNN | TBD | TBD |
-| Random Forest | TBD | TBD |
-| SVM | TBD | TBD |
-
-*Note: Add your actual performance metrics*
 
 ## 🛠️ Technology Stack
 
